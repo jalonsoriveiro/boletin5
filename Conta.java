@@ -38,7 +38,7 @@ public Conta(String m,String x,double i,double y){
     }
     public void setConta (String NuevaCuenta){    
         conta = NuevaCuenta;
-        System.out.println("Nuevo Nombre pr cliente "+conta);    
+        System.out.println("Nuevo Nombre de cliente "+conta);    
     }
    
     
